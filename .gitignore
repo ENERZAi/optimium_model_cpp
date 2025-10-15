@@ -7,3 +7,9 @@
 *.bin
 model_meta_debug.txt
 *.so
+model.json
+user_arguments.json
+nadya-project.yml
+
+main
+tokenizer.json
